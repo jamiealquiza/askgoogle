@@ -3,4 +3,4 @@ askgoogle
 
 Google suggest API -> ElasticSearch
 
-You don't even want to knnow.
+You don't even want to know.
